@@ -27,7 +27,7 @@ SO THAT my account balance is accurate when I am traveling
 
 ## Demo
 
-![Untitled_ Aug 19, 2020 6_57 PM](https://user-images.githubusercontent.com/66850293/90698278-546d5800-e24e-11ea-968e-4e29c84aa08f.gif)
+![Untitled Project](https://user-images.githubusercontent.com/66850293/91111013-60418b80-e64d-11ea-94f8-5555ea468931.gif)
 
 ---
 
